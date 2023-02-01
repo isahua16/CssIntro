@@ -1,19 +1,18 @@
-.third > p {
-  font-size: 24px;
+section #first {
+  background-color: purple;
 }
 
-a > button {
-  background-color: blueviolet;
-  color: whitesmoke;
-  border: none;
+.third p {
+  color: aqua;
 }
 
-article > p,
-h5 {
-  color: palevioletred;
+#second + p {
+  background-color: royalblue;
+}
+.third + p {
+  background-color: gold;
 }
 
-h1,
-h2 {
-  font-size: 48px;
+#first ~ p {
+  color: orangered;
 }
