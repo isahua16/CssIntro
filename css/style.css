@@ -3,3 +3,23 @@ p {
   font-size: 24px;
   color: forestgreen;
 }
+
+h1 {
+  color: purple;
+}
+
+h2 {
+  color: teal;
+}
+
+.link {
+  color: darkcyan;
+}
+
+#first {
+  color: darkblue;
+}
+
+#second {
+  color: darkred;
+}
