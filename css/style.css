@@ -1,25 +1,19 @@
-p {
-  font-family: monospace;
+.third > p {
   font-size: 24px;
-  color: forestgreen;
 }
 
-h1 {
-  color: purple;
+a > button {
+  background-color: blueviolet;
+  color: whitesmoke;
+  border: none;
 }
 
+article > p,
+h5 {
+  color: palevioletred;
+}
+
+h1,
 h2 {
-  color: teal;
-}
-
-.link {
-  color: darkcyan;
-}
-
-#first {
-  color: darkblue;
-}
-
-#second {
-  color: darkred;
+  font-size: 48px;
 }
